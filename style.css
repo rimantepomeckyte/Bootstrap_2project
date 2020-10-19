@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+}
+body, html{
+    height: 100%;
+}
+.header{
+    height: 30%;
+    background-color: pink;
+}
+.else{
+    height: 70%;
+}
+.eile{
+    height: 25%;
+}
+.border{
+    border-width:20px !important;
+}
+
+/*
+@media (max-width: 768px){
+{
+    border-left: 20px !important;
+}
+}
